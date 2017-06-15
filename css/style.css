@@ -1,1 +1,30 @@
-style.css
+.btn-info{
+	background-color :purple;
+
+}
+
+.btn-info: hover{
+	background-color: #73f;
+}
+.btn-info:active{
+	background-color:#73F;
+	background-image: url('../images/stats');
+	
+}
+
+.stats{
+	background-image: url('../images/stats.jpeg');
+	background-position: center;
+	background-size: cover;
+}
+
+h1{
+	background-color: orange;
+	padding: 5px 10px;
+}
+p{
+
+background-color: green;
+margin:0 5px;
+
+}
